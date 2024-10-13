@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Rotem1.props" />
+</Project>
